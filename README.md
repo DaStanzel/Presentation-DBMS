@@ -7,8 +7,7 @@ Choose a DBMS (not relational f.e. NoSQL, GraphQL, etc.) and prepare a presentat
 **Important note:** Install the DBMS on your PC and practice in this system.
 
 **Time:** 15 minutes
-
-You are also required to prepare a script about your topic and publish the script in the wiki. Both the presentation and script must be written and spoken in English.
+ Both the presentation and script must be written and spoken in English.
 
 ### Content of Presentation:
 
